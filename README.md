@@ -1,1 +1,2 @@
 # Akita_Gourmet_Guide_WebScraping
+秋田の飲食店情報をWebスクレイピングで取得し、DBに格納する
